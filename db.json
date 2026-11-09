@@ -1,0 +1,94 @@
+{
+  "produits": [
+    {
+      "id": "1",
+      "nom": "Ordinateur portable HP",
+      "categorie": "Ordinateurs",
+      "prix": 6500,
+      "stock": 12,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuaLVI8FV-XZpEcgdVxNzouLDZBKYxYUi65cvBjF_hvra7dF4vnqu6g0&s=10",
+      "description": "Ordinateur portable HP avec processeur Intel Core i5, 16 Go de RAM et SSD de 512 Go."
+    },
+    {
+      "id": "2",
+      "nom": "Smartphone Samsung",
+      "categorie": "Téléphones",
+      "prix": 3200,
+      "stock": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tSHRJqHfAEdbOeYTs4_HLDNlPjNXFoIUFK-mbCciG-FMdYjl4ZG9cfzA&s=10",
+      "description": "Smartphone Samsung avec écran AMOLED, 128 Go de stockage et batterie longue durée."
+    },
+    {
+      "id": "3",
+      "nom": "Clavier mécanique Logitech",
+      "categorie": "Accessoires",
+      "prix": 450,
+      "stock": 35,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfOBYHOHC7-EYdeT5HeV9T8RPlc_VXaMWx4us6VgC0Q&s=10",
+      "description": "Clavier mécanique avec rétroéclairage RGB et connexion USB."
+    },
+    {
+      "id": "4",
+      "nom": "Souris sans fil",
+      "categorie": "Accessoires",
+      "prix": 180,
+      "stock": 50,
+      "image": "https://ulpressbureau.ma/wp-content/uploads/2022/01/LD0005897033_1-1-1.jpg",
+      "description": "Souris ergonomique sans fil avec capteur optique et connexion Bluetooth."
+    },
+    {
+      "id": "5",
+      "nom": "Écran Dell 24 pouces",
+      "categorie": "Écrans",
+      "prix": 1800,
+      "stock": 15,
+      "image": "https://www.iris.ma/171775-large_default/ecran-dell-pro-24-plus-qhd-p2425d.jpg",
+      "description": "Écran Full HD de 24 pouces avec dalle IPS et connexion HDMI."
+    },
+    {
+      "id": "6",
+      "nom": "Casque Bluetooth Sony",
+      "categorie": "Audio",
+      "prix": 850,
+      "stock": 18,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsJGL6-A0a_4Hbxg2QdxXAM_DMAB4NCTBqTLKlXvN6pc59gwjjKgtgT4b&s=10",
+      "description": "Casque audio sans fil avec réduction de bruit et autonomie de 30 heures."
+    },
+    {
+      "id": "7",
+      "nom": "Tablette Lenovo",
+      "categorie": "Tablettes",
+      "prix": 2400,
+      "stock": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhkS7I188xNdnau_bsNKQyDpjI7suSgXgfmTbxLkduA&s=10",
+      "description": "Tablette Android avec écran de 10 pouces, 128 Go de stockage et 8 Go de RAM."
+    },
+    {
+      "id": "8",
+      "nom": "Disque SSD externe",
+      "categorie": "Stockage",
+      "prix": 750,
+      "stock": 25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxyDLTYFOlPRb-C5Z9L2yul5QtWzVUdjhdkwOsPUvjkkMOzKhBPtuWTXLw&s=10",
+      "description": "Disque SSD externe de 1 To avec connexion USB-C et transfert rapide."
+    },
+    {
+      "id": "9",
+      "nom": "Webcam Logitech HD",
+      "categorie": "Accessoires",
+      "prix": 550,
+      "stock": 22,
+      "image": "https://www.ultrapc.ma/22951-large_default/logitech-hd-pro-webcam-c920-refresh.jpg",
+      "description": "Webcam Full HD 1080p avec microphone intégré pour les visioconférences."
+    },
+    {
+      "id": "10",
+      "nom": "Imprimante Canon",
+      "categorie": "Imprimantes",
+      "prix": 1350,
+      "stock": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUojUgd4nd5MGlED7lq5B7dSOxx9l2BB2AQ8YLGGBOJlAFMOzN3U9DShE&s=10",
+      "description": "Imprimante multifonction couleur avec scanner, photocopieur et connexion Wi-Fi."
+    }
+  ]
+}
